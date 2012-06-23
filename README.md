@@ -1,4 +1,8 @@
 iSaka
 =====
 
-Osaka's IRC Bot, used remember has much money he owes people.
+Osaka's IRC Bot, used to remember how much money he owes people. 
+
+Requires
+- Python-Twisted
+- Python-sqllite3
