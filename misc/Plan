@@ -1,0 +1,11 @@
+calculate (sorce, target, amount)
+
+Check Users Exists
+    If not create them
+
+Check owes record exists
+    False: Create a new record
+    True:  update
+    
+Get Amount 
+    
